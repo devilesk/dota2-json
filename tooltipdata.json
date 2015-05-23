@@ -458,7 +458,7 @@
   "Lore": "Using the mental link with his thralls, Chen calls down restoration and well-being to those who share his fanaticism."
  }, 
  "chen_holy_persuasion": {
-  "Description": "Gives control of an enemy or neutral creep, and gives it bonus hit points.\\n\\nUpgradable by Aghanim's Scepter, allowing Chen to persuade Ancient Creeps. The number of Ancient Creeps that can be persuaded is based on the level of Hand of God.", 
+  "Description": "Chen takes control of an enemy or neutral creep. If the persuaded creep's base health is naturally below the health minimum, its base health will be raised to the health minimum.\\n\\nUpgradable by Aghanim's Scepter, allowing Chen to persuade Ancient Creeps. The number of Ancient Creeps that can be persuaded is based on the level of Hand of God.", 
   "DisplayName": "Holy Persuasion", 
   "Lore": "Although they may not be knights, Chen incorporates beasts into the Fold in the same way he himself was converted."
  }, 

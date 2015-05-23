@@ -8326,7 +8326,7 @@
    0, 
    0
   ], 
-  "description": "Gives control of an enemy or neutral creep, and gives it bonus hit points.\\n\\nUpgradable by Aghanim's Scepter, allowing Chen to persuade Ancient Creeps. The number of Ancient Creeps that can be persuaded is based on the level of Hand of God.", 
+  "description": "Chen takes control of an enemy or neutral creep. If the persuaded creep's base health is naturally below the health minimum, its base health will be raised to the health minimum.\\n\\nUpgradable by Aghanim's Scepter, allowing Chen to persuade Ancient Creeps. The number of Ancient Creeps that can be persuaded is based on the level of Hand of God.", 
   "displayname": "Holy Persuasion", 
   "level": 0, 
   "lore": "Although they may not be knights, Chen incorporates beasts into the Fold in the same way he himself was converted.", 
@@ -51620,7 +51620,6 @@
    }, 
    {
     "name": "min_speed_slow", 
-    "tooltip": "%MIN MOVE SLOW:", 
     "value": [
      1
     ]
@@ -51636,7 +51635,6 @@
    }, 
    {
     "name": "min_damage_amp", 
-    "tooltip": "%MIN DAMAGE AMP:", 
     "value": [
      1
     ]
@@ -51839,10 +51837,10 @@
     "name": "tooltip_tombstone_health", 
     "tooltip": "TOMBSTONE HEALTH:", 
     "value": [
-     200, 
-     400, 
-     600, 
-     800
+     175, 
+     350, 
+     525, 
+     700
     ]
    }, 
    {
